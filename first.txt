@@ -1,3 +1,4 @@
 Lele Third git!
 I LOVE YOU !
 Add a new branch!
+Creating a new branch is quick AND simple.
